@@ -45,7 +45,7 @@ remove(data) # remove from objects
 # 
 # # Need to convert 'Date' variable into a date format: POSIXct  
 # library(lubridate)
-# data$Date <- dmy(data$Date)
+# subdata$Date <- dmy(subdata$Date)
 # 
 # ### END BLOCK
 
